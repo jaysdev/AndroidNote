@@ -43,6 +43,13 @@
 <a href="https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B12%5DDispatch-TouchEvent-Theory.md" target="_blank"><img src="http://ww4.sinaimg.cn/large/005Xtdi2jw1f8c631ysrej30rs0dwn03.jpg" width=285 /></a>
 </p>
 
+*******
+
+<p align="center">
+<a href="https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B15%5DDispatch-TouchEvent-Source.md" target="_blank"><img src="http://ww4.sinaimg.cn/large/005Xtdi2jw1f8vfucn212j30rs0dwn04.jpg" width=285 /></a>
+<a href="https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B16%5DMotionEvent.md" target="_blank"><img src="http://ww4.sinaimg.cn/large/005Xtdi2jw1f9ishqhoa1j30rs0dwdip.jpg" width=285 /></a>
+</p>
+
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
 
 <a href="http://www.gcssloop.com/1970/01/about/" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width=300 height=100 /> </a>

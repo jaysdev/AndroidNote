@@ -34,6 +34,9 @@
     * [安卓自定义View进阶 - Matrix详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B10%5DMatrix_Method.md)
     * [安卓自定义View进阶 - Matrix Camera](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B11%5DMatrix_3D_Camera.md)
     * [安卓自定义View进阶 - 事件分发机制原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B12%5DDispatch-TouchEvent-Theory.md)
+    * [安卓自定义View进阶 - 事件分发机制详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B15%5DDispatch-TouchEvent-Source.md)
+    * [安卓自定义View进阶 - MotionEvent详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B16%5DMotionEvent.md)
+
 
 ******
 
@@ -43,6 +46,11 @@
 * [在AndroidStudio中使用PlantUML(Mac)](https://github.com/GcsSloop/AndroidNote/blob/master/Course/HowToUsePlantUMLInAS%5BMac%5D.md)
 * [优雅的发布Android开源库(论JitPack的优越性)](https://github.com/GcsSloop/AndroidNote/blob/master/Course/ReleaseLibraryByJitPack.md)
 * [用JitPack发布时附加文档和源码](https://github.com/GcsSloop/AndroidNote/blob/master/Course/jitpack-javadoc.md)
+
+------
+
+* [Markdown 快速入门](https://github.com/GcsSloop/AndroidNote/blob/master/Course/Markdown/markdown-start.md)  
+* [Markdown 基础语法](https://github.com/GcsSloop/AndroidNote/blob/master/Course/Markdown/markdown-grammar.md)
 
 ******
 
